@@ -1,0 +1,5 @@
+.webappvenv
+streamlit-1.38.0
+__pycache__
+streamlit-1.38.0.tar.gz
+.DS_Store
